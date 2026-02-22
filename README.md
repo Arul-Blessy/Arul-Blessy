@@ -12,8 +12,14 @@ A Computer Science student who enjoys learning step by step and improving throug
 ![](https://nirzak-streak-stats.vercel.app/?user=Arul-Blessy&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arul-Blessy&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+
+<div align="center">
+
+# "Remember that there is no code faster than no code."
+ **A philosophy on efficiency, simplicity, and purposeful engineering.**
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Arul-Blessy&icon=5&color=0)](https://visitcount.itsvg.in)
