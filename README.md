@@ -1,6 +1,10 @@
 # Hi 👋 I’m Blessy
-A Computer Science student who enjoys learning step by step and improving through hands-on practice.<br><br>🌱 Currently learning: Python, SQL, Power BI, and Excel for data analysis  <br>🔭 Working on: Academic and personal projects to strengthen problem-solving skills  <br>👯 Open to collaborating on beginner to intermediate programming projects  <br><br>💬 Ask me about Python basics, presentations, or learning consistency  <br>⚡ Fun fact: I enjoy explaining concepts in a clear and simple way<br>
+A Computer Science student who enjoys learning step by step and improving through hands-on practice.<br><br>🌱 Currently learning: Advanced Python, Backend Frameworks (FastAPI), and Database Optimization <br>
+🔭 Working on: Building secure backend architectures, REST APIs, and automated system logic
+<br>👯 Open to collaborating on: Backend development, automation scripts, and open-source projects
 
+<br>💬 Ask me about: Python backend logic, API development, and SQL databases
+<br>⚡ Fun fact: I love breaking down complex, technical software concepts into simple, toddler-friendly explanations!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arul-blessy-s-r-55820829b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arulblessy2004@gmail.com) 
