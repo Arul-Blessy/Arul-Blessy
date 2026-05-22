@@ -1,6 +1,6 @@
 # Hi 👋 I’m Blessy
-A Computer Science student who enjoys learning step by step and improving through hands-on practice.<br><br>🌱 Currently learning: Advanced Python, Backend Frameworks (FastAPI), and Database Optimization <br>
-🔭 Working on: Building secure backend architectures, REST APIs, and automated system logic
+A Computer Science graduate who enjoys learning step by step and improving through hands-on practice.<br><br>🌱 Currently learning: Advanced Python, Backend Frameworks (FastAPI), and Database Optimization <br>
+🔭 Working on: Building secure backend architectures, REST APIs and automated system logic
 <br>👯 Open to collaborating on: Backend development, automation scripts, and open-source projects
 
 <br>💬 Ask me about: Python backend logic, API development, and SQL databases
